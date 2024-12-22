@@ -1,28 +1,28 @@
 {
   "common": {
-    "version": "version",
-    "current": "current"
+    "version": "גרסא",
+    "current": "זרם"
   },
   "editor": {
     "card": {
       "climate": {
-        "disable_window": "Disable window",
-        "disable_summer": "Disable summer",
-        "disable_eco": "Disable eco",
-        "disable_heat": "Disable heat",
-        "disable_off": "Disable off",
-        "disable_menu": "Disable menu",
-        "disable_battery_warning": "Disable battery warning",
-        "disable_buttons": "Disable plus/minus buttons",
-        "eco_temperature": "Eco temperature",
-        "set_current_as_main": "Swap target with current temperature places"
+        "disable_window": "השבת חלון",
+        "disable_summer": "השבת קיץ",
+        "disable_eco": "השבת מצב חסכון",
+        "disable_heat": "השבת חימום",
+        "disable_off": "ביטול השבתה",
+        "disable_menu": "תפריט השבתה",
+        "disable_battery_warning": "השבת אזהרת סוללה",
+        "disable_buttons": "השבת כפתורי פלוס/מינוס",
+        "eco_temperature": "טמפרטורת חסכון",
+        "set_current_as_main": "החלף מקומות בין הטמפרטורה הנוכחית למיועדת"
       }
     }
   },
   "extra_states": {
-    "window_open": "Window open",
-    "night_mode": "Night mode",
-    "eco": "Eco",
-    "summer": "Summer"
+    "window_open": "חלון פתוח ",
+    "night_mode": "מצב לילה",
+    "eco": "חסכון",
+    "summer": "קיץ"
   }
 }
